@@ -1,0 +1,20 @@
+/*
+ * Constants
+ *
+ * Keep colors and reusable theme values here.
+ */
+:root {
+  --theme-color-primary: #222831;
+  --theme-color-secondary: #393E46;
+  --theme-color-background: #948979; 
+  --theme-color-accent: #F2EEE6;
+  --theme-color-accent-2: #3F382E;
+  --theme-color-accent-3: #4E535C;
+  --theme-color-text: #FFFFFF;
+  --theme-transition: all 0.3s ease-in-out;
+
+  --theme-font-heading: "dark-london", sans-serif;
+  --theme-font-heading-2: "hello-bloomie-serif", serif;
+  --theme-font-body: "ruddy", sans-serif;
+  --theme-line-height-heading: 1.4;
+}
